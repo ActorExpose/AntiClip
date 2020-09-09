@@ -1,26 +1,26 @@
 # AntiClip
 Bitcoin clippers are designed to be stealithy and not alert the user when the clipboard address changes, AntiClip attempts to solve this issue by alerting the issue when and if there clipped bitcoin address changes.
 <p align="center">
-![AntiClip In Action](https://i.imgur.com/PtXVPZt.png)
-  </p>
+  <img src="https://i.imgur.com/PtXVPZt.png">
+</p>
 
 ## Setup
 If you wish the build the binaries instead of using the precomipiled version listed in the release section: [here](https://github.com/backslash/AntiClip/releases/tag/1.0)
 Make sure you have visual studio installed this can be found [here](https://visualstudio.microsoft.com/downloads/) after you have installed.
 Open up Anticlip.sln and navigate to the main.cpp file.
 <p align="center">
-![](https://i.imgur.com/AB52Kml.png)
-  </p>
+  <img src="https://i.imgur.com/AB52Kml.png">
+ </p>
 the main settings are:
 - Delay: How quickly it should check the clipboard text in miliseconds.
 - Hidden: Do you want to hide the main window.
 Once finished make sure to compile it in release mode:
 <p align="center">
-![](https://i.imgur.com/iAxzEYM.png)
-  </p>
+  <img src="https://i.imgur.com/iAxzEYM.png">
+ </p>
 Thats about it in setup, once the program detects a change in the bitcoin address it will create a popup:
 <p align="center">
-![](https://i.imgur.com/SEqeTd3.png)
+  <img src="https://i.imgur.com/SEqeTd3.png">
 </p>
 
 ## Usage
