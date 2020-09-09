@@ -27,4 +27,4 @@ Thats about it in setup, once the program detects a change in the bitcoin addres
 Leave it running in the background, or add it to startup since depending on your antivirus there is a chance they aren't doing there job of protecting you from malware.
 
 ## Other
-I am providing this software for free, do not attempt to resell this seeing as it's not A not the best code and B it's free stuff that you didn't write. This software is intended to help counter malware.
+I am providing this software for free, do not attempt to resell this seeing as it's not A not the best code and B it's free stuff that you didn't write. This software is intended to help counter malware. Also wrote this in 15min so yeah selling this would be pretty cheap.
